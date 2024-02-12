@@ -11,8 +11,8 @@ Extração de Características: Após a detecção do rosto, extrai característ
 Comparação com Banco de Dados: As características são comparadas com um banco de dados de rostos previamente cadastrados, utilizando técnicas de aprendizado de máquina para calcular a similaridade entre os rostos.
 
 Identificação ou Verificação: Dependendo do contexto, o sistema pode realizar duas tarefas principais:
-    -Identificação: Tenta determinar a identidade do rosto desconhecido comparando-o com todos os rostos no banco de dados.
-    -Verificação: Verifica se o rosto desconhecido corresponde a uma pessoa específica previamente cadastrada.
+    1)Identificação: Tenta determinar a identidade do rosto desconhecido comparando-o com todos os rostos no banco de dados.
+    2)Verificação: Verifica se o rosto desconhecido corresponde a uma pessoa específica previamente cadastrada.
 
 Retorno de Resultados: Com base na comparação realizada, o sistema retorna os resultados, como a identidade da pessoa reconhecida ou a probabilidade de correspondência com uma pessoa específica.
 
