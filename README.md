@@ -3,6 +3,7 @@ Reconhecimento Facial com face_recognition
 Este é um projeto de reconhecimento facial desenvolvido utilizando a biblioteca face_recognition em Python. Esta aplicação tem como objetivo identificar e reconhecer rostos em imagens o, seguindo os passos descritos abaixo:
 
 Passos do Processo de Reconhecimento Facial
+
 Detecção de Rosto: Utiliza algoritmos de detecção de rosto para localizar e extrair as características faciais presentes em uma imagem ou vídeo.
 Extração de Características: Após a detecção do rosto, extrai características únicas, como a posição dos olhos, nariz, boca e outros traços distintivos.
 Comparação com Banco de Dados: As características são comparadas com um banco de dados de rostos previamente cadastrados, utilizando técnicas de aprendizado de máquina para calcular a similaridade entre os rostos.
